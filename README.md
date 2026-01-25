@@ -1,4 +1,13 @@
-## Hi there 👋
+## I'm Jen. Welcome to my github!
+
+I am a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prata&pause=1000&color=F7EEDF&width=435&lines=Technical+Consultant;Product+Builder;Community+Lead)](https://git.io/typing-svg)
+
+Currently consulting @ IBM & hacking projects
+Previously PM @ Tesla, Data Analyst @ Nissan
+
+I have a Data Science degree from UC Berkeley with a focus in Startups and Human Centered Design.
+
+Ask me about AI, art, MMA, & all things endurance sports.
 
 <!--
 **thejenniferfang/thejenniferfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
