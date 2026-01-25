@@ -1,6 +1,6 @@
-## I'm Jen. Welcome to my github!
+## I'm Jen. I am a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prata&pause=1000&color=F7EEDF&width=435&lines=Technical+Consultant;Product+Builder;Community+Lead)](https://git.io/typing-svg)
 
-I am a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prata&pause=1000&color=F7EEDF&width=435&lines=Technical+Consultant;Product+Builder;Community+Lead)](https://git.io/typing-svg)
+Welcome to my github!
 
 Currently consulting @ IBM & hacking projects
 Previously PM @ Tesla, Data Analyst @ Nissan
