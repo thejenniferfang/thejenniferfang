@@ -1,13 +1,13 @@
 ## I'm Jen. Welcome to my github!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prata&pause=1000&color=2427FF&width=435&lines=Technical+Consultant;Product+Builder;Community+Lead)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prata&pause=1000&color=2427FF&width=435&lines=Tech+Consultant;Product+Builder;GTM;Community+Lead)](https://git.io/typing-svg)
 
-Currently consulting @ IBM & hacking projects
-Previously PM @ Tesla, Data Analyst @ Nissan
+Currently consulting @ IBM & hacking projects & saying stuff
+Previously PM @ Tesla, Data @ Nissan
 
-I have a Data Science degree from [UC Berkeley](https://www.berkeley.edu/) with a focus in Startups and Human Centered Design.
+Graduated Data Science from [UC Berkeley](https://www.berkeley.edu/) with a focus in Startups and Human Centered Design.
 
-Ask me about AI, art, the best spots in NYC & SF, MMA, & all things endurance sports.
+Ask me about AI, art, the best spots in NYC & SF, all things endurance sports, and a short MMA stint (context: was a collegiate boxer, president of cal boxing).
 
 <!--
 **thejenniferfang/thejenniferfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
