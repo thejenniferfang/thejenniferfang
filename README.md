@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prata&pause=1000&color=2427FF&width=435&lines=Tech+Consultant;Product+Builder;GTM;Community+Lead)](https://git.io/typing-svg)
 
-Currently consulting @ IBM & making stuff 
+Currently making stuff 
 Previously PM @ Tesla, Data @ Nissan
 
 Graduated Data Science from [UC Berkeley](https://www.berkeley.edu/) with a focus in Startups and Human Centered Design. and i had a short MMA stint (context: was president of cal boxing).
